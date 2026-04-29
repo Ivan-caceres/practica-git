@@ -1,0 +1,17 @@
+commit a6c5e8623819aaccc9f588c6feab5de1416f8f7e
+Author: Ivan Caceres <ezeivan98@gmail.com>
+Date:   Tue Apr 28 22:15:24 2026 -0300
+
+    Escribir el saludo
+
+commit 76927f5607df725854e8fb6c6ee10808e3855e5c
+Author: Ivan Caceres <ezeivan98@gmail.com>
+Date:   Tue Apr 28 22:12:36 2026 -0300
+
+    Crear archivo saludo.txt
+
+commit 6ca3910e2050224d08cbd790d503f457be1a6eb2
+Author: Ivan Caceres <ezeivan98@gmail.com>
+Date:   Tue Apr 28 22:09:59 2026 -0300
+
+    Crear archivo README.md
